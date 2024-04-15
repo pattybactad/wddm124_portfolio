@@ -61,6 +61,12 @@ a:hover {
     font-size: 2rem;
 }
 
+.logo-footer {
+    position: center;
+    right: 1rem;
+    bottom: 2.5rem;
+}
+
 .logo:hover {
     cursor: default;
 }
@@ -435,6 +441,10 @@ article .icon {
 
 .contact-info-container p {
     font-size: larger;
+}
+
+.contact-icon {
+    display: flex;
 }
 
 /* FOOTER */
