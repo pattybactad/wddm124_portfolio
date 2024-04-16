@@ -294,7 +294,7 @@ section {
 }
 
 .details-container {
-    padding: 1.5rem;
+    padding: 1rem;
     flex: 1;
     background: white;
     border-radius: 2rem;
@@ -380,7 +380,7 @@ article .icon {
 
 .projects-container {
     gap: 2rem;
-    margin-bottom: 2rem;
+    /* margin-bottom: 2rem; */
     margin-top: 2rem;
     display: flex;
 }
