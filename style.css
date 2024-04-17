@@ -445,6 +445,16 @@ article .icon {
 
 .contact-icon {
     display: flex;
+    align-self: center;
+    margin: auto;
+}
+
+.mylogo {
+    display: flex;
+    align-self: center;
+    margin: auto;
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Keep the aspect ratio */
 }
 
 /* FOOTER */
@@ -453,3 +463,4 @@ footer p {
     text-align: center;
     padding-bottom: 40px;
 }
+
